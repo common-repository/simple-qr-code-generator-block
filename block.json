@@ -1,0 +1,14 @@
+{
+	"name": "soare-robert/simple-qr-code-generator-block",
+	"title": "QR Block Generator",
+	"category": "widgets",
+	"icon": "format-image",
+	"description": "A simple QR Code Generator.",
+	"textdomain": "soare-robert",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
